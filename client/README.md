@@ -16,4 +16,6 @@ sdnrdb   /tini -- /usr/local/bin/do ...   Up      9200/tcp, 9300/tcp
 ```
 
 SDNR GUI is accessible at http://<host_ip>:8181/odlux/index.html
+username/pwd: admin/Kp8bJ4SXszM0WXlhak3eHlcse2gAw84vaoGGmJvUy2U
+
 
